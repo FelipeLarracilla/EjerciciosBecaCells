@@ -8,7 +8,7 @@ Este metodo no cambia los metodos existentes, pero retorna un nuevo arreglo*/
 contactos = clientes.concat(empleados);
 console.log(contactos); // ['a', 'b', 'c', 'd', 'x', 'y', 'z']
 
-/* El método de array join() une todos los elementos de una arreglo (o un objeto similar a una arreglo) en una cadena y devuelve esta cadena.Separados por una coma o un separador string*/
+/* El  método de array join() une todos los elementos de una arreglo (o un objeto similar a una arreglo) en una cadena y devuelve esta cadena.Separados por una coma o un separador string*/
 
 console.log(clientes.join(','));//a,b,c,d
 console.log(empleados.join('-'));//x-y-z
