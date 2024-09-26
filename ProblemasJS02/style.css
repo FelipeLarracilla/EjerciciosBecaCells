@@ -5,7 +5,7 @@ h2 {
 table {
     width: 50%;
     border-collapse: collapse;
-    /* Evita que las celdas tengan bordes dobles */
+    /*Evita que las celdas tengan bordes dobles */
     margin: 20px auto;
 
 }
